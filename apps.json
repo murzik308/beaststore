@@ -1,0 +1,35 @@
+{
+  "AppComet": {
+    "name": "Comet Canvas",
+    "description": "A playful drawing app for quick sketches, colorful stickers and desktop wallpaper ideas.",
+    "category": "Creative",
+    "requirements": [
+      "Windows 10 or later",
+      "8 GB RAM recommended"
+    ],
+    "icon": "/comet-canvas/icon.png",
+    "screenshots": [
+      "/comet-canvas/screen_1.png",
+      "/comet-canvas/screen_2.png"
+    ],
+    "size": 342,
+    "installer": "/comet-canvas/installer.exe"
+  },
+  "AppCinder": {
+    "name": "Cinder Audio",
+    "description": "A compact music player with local playlists, a clean library and warm visual themes.",
+    "category": "Entertainment",
+    "requirements": [
+      "Windows 10 or later",
+      "Internet connection for updates"
+    ],
+    "icon": "/app2/icon.png",
+    "screenshots": [
+      "/app2/screen_1.png",
+      "/app2/screen_2.png"
+    ],
+    "size": 118,
+    "release": "apps2",
+    "installer": "/app2/installer.exe"
+  }
+}
