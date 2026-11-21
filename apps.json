@@ -1,5 +1,5 @@
 {
-"WinRAR": {
+  "WinRAR": {
     "name": "WinRAR",
     "description": "A file manager that lets you manage different archives, like RAR, JAR or APK and extract their files. Also supports secured RAR archives.",
     "category": "Tools",
@@ -15,8 +15,7 @@
     "size": 3.6,
     "release": "app1",
     "installer": "/app1/install.exe"
-  }
-},
+  },
   "MurzyBrowser": {
     "name": "MurzyBrowser",
     "description": "A cool fast browser based on Chromium and made for gamers with only needed functions: without trash.",
@@ -32,8 +31,7 @@
     "size": 417,
     "release": "murzybrowser",
     "installer": "/murzybrowser/MurzyBrowserInstaller.exe"
-  }
-}
+  },
   "AviPet": {
     "name": "AviPet",
     "description": "Add a pet on your desktop! AviPet is an app with cute pets for desktop made by MurzPlay and Zawarka.",
