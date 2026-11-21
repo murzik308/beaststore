@@ -3,6 +3,8 @@
     "name": "WinRAR",
     "description": "A file manager that lets you manage different archives, like RAR, JAR or APK and extract their files. Also supports secured RAR archives.",
     "category": "Tools",
+    "setup-type": "installer",
+    "latest-version": "1.0",
     "requirements": [
       "Windows 7 or later",
       "Internet connection for updates"
@@ -20,6 +22,8 @@
     "name": "MurzyBrowser",
     "description": "A cool fast browser based on Chromium and made for gamers with only needed functions: without trash.",
     "category": "Tools",
+    "setup-type": "installer",
+    "latest-version": "1.0",
     "requirements": [
       "Windows 10"
     ],
@@ -36,6 +40,8 @@
     "name": "AviPet",
     "description": "Add a pet on your desktop! AviPet is an app with cute pets for desktop made by MurzPlay and Zawarka.",
     "category": "Personalization",
+    "setup-type": "installer",
+    "latest-version": "1.0",
     "requirements": [
       "Windows 10"
     ],
