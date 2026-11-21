@@ -18,7 +18,7 @@
   "AppCinder": {
     "name": "WinRAR",
     "description": "A file manager that lets you manage different archives, like RAR, JAR or APK and extract their files. Also supports secured RAR archives.",
-    "category": "tools",
+    "category": "Tools",
     "requirements": [
       "Windows 7 or later",
       "Internet connection for updates"
