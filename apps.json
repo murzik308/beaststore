@@ -1,21 +1,4 @@
-{
-  "AppComet": {
-    "name": "Comet Canvas",
-    "description": "A playful drawing app for quick sketches, colorful stickers and desktop wallpaper ideas.",
-    "category": "Creative",
-    "requirements": [
-      "Windows 10 or later",
-      "8 GB RAM recommended"
-    ],
-    "icon": "/comet-canvas/icon.png",
-    "screenshots": [
-      "/comet-canvas/screen_1.png",
-      "/comet-canvas/screen_2.png"
-    ],
-    "size": 111,
-    "installer": "/app2/installer.exe"
-  },
-  "AppCinder": {
+  "WinRAR": {
     "name": "WinRAR",
     "description": "A file manager that lets you manage different archives, like RAR, JAR or APK and extract their files. Also supports secured RAR archives.",
     "category": "Tools",
@@ -31,5 +14,39 @@
     "size": 3.6,
     "release": "app1",
     "installer": "/app1/install.exe"
+  }
+},
+  "MurzyBrowser": {
+    "name": "MurzyBrowser",
+    "description": "A cool fast browser based on Chromium and made for gamers with only needed functions: without trash.",
+    "category": "Tools",
+    "requirements": [
+      "Windows 10"
+    ],
+    "icon": "/app2/icon.png",
+    "screenshots": [
+      "/app2/screen_1.png",
+      "/app2/screen_2.png"
+    ],
+    "size": 417,
+    "release": "murzybrowser",
+    "installer": "/murzybrowser/MurzyBrowserInstaller.exe"
+  }
+}
+  "MurzyBrowser": {
+    "name": "AviPet",
+    "description": "Add a pet on your desktop! AviPet is an app with cute pets for desktop made by MurzPlay and Zawarka.",
+    "category": "Personalization",
+    "requirements": [
+      "Windows 10"
+    ],
+    "icon": "/app2/icon.png",
+    "screenshots": [
+      "/app2/screen_1.png",
+      "/app2/screen_2.png"
+    ],
+    "size": 162,
+    "release": "avipet",
+    "installer": "/avipet/AviPetInstaller.exe"
   }
 }
