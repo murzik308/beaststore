@@ -12,15 +12,15 @@
       "/comet-canvas/screen_1.png",
       "/comet-canvas/screen_2.png"
     ],
-    "size": 342,
-    "installer": "/comet-canvas/installer.exe"
+    "size": 111,
+    "installer": "/app2/installer.exe"
   },
   "AppCinder": {
-    "name": "Cinder Audio",
-    "description": "A compact music player with local playlists, a clean library and warm visual themes.",
+    "name": "WinRAR",
+    "description": "A file manager that lets you manage different archives, like RAR, JAR or APK and extract their files. Also supports secured RAR archives.",
     "category": "Entertainment",
     "requirements": [
-      "Windows 10 or later",
+      "Windows 7 or later",
       "Internet connection for updates"
     ],
     "icon": "/app2/icon.png",
@@ -28,8 +28,8 @@
       "/app2/screen_1.png",
       "/app2/screen_2.png"
     ],
-    "size": 118,
-    "release": "apps2",
-    "installer": "/app2/installer.exe"
+    "size": 3.6,
+    "release": "app1",
+    "installer": "/app1/install.exe"
   }
 }
