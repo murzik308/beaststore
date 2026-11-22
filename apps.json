@@ -1,27 +1,8 @@
 {
-  "WinRAR": {
-    "name": "WinRAR",
-    "description": "A file manager that lets you manage different archives, like RAR, JAR or APK and extract their files. Also supports secured RAR archives.",
-    "category": "Tools",
-    "setup-type": "installer",
-    "latest-version": "1.0",
-    "requirements": [
-      "Windows 7 or later",
-      "Internet connection for updates"
-    ],
-    "icon": "/app2/icon.png",
-    "screenshots": [
-      "/app2/screen_1.png",
-      "/app2/screen_2.png"
-    ],
-    "size": 3.6,
-    "release": "app1",
-    "installer": "/app1/install.exe"
-  },
   "MurzyBrowser": {
     "name": "MurzyBrowser",
     "description": "A cool fast browser based on Chromium and made for gamers with only needed functions: without trash.",
-    "category": "Tools",
+    "category": "Tools", "dev-made",
     "setup-type": "installer",
     "latest-version": "1.0",
     "requirements": [
@@ -39,7 +20,7 @@
   "AviPet": {
     "name": "AviPet",
     "description": "Add a pet on your desktop! AviPet is an app with cute pets for desktop made by MurzPlay and Zawarka.",
-    "category": "Personalization",
+    "category": "Personalization", "dev-made",
     "setup-type": "installer",
     "latest-version": "1.0",
     "requirements": [
@@ -54,4 +35,274 @@
     "release": "avipet",
     "installer": "/avipet/AviPetInstaller.exe"
   }
+    "WinRAR": {
+    "name": "WinRAR",
+    "description": "A file manager that lets you manage different archives, like RAR, JAR or APK and extract their files. Also supports secured RAR archives.",
+    "category": "Tools",
+    "setup-type": "installer",
+    "latest-version": "1.0",
+    "requirements": [
+      "Windows 7 or later",
+    ],
+    "icon": "/app2/icon.png",
+    "screenshots": [
+      "/app2/screen_1.png",
+      "/app2/screen_2.png"
+    ],
+    "size": 3.6,
+    "release": "desktop-apps",
+    "installer": "winrar.exe"
+  },
+    "TurboWarp": {
+    "name": "TurboWarp",
+    "description": "A Scratch mod with different addons, extensions and cool themes.",
+    "category": "Games",
+    "setup-type": "installer",
+    "latest-version": "1.0",
+    "requirements": [
+      "Windows 10 or later",
+    ],
+    "icon": "/app2/icon.png",
+    "screenshots": [
+      "/app2/screen_1.png",
+      "/app2/screen_2.png"
+    ],
+    "size": 158,
+    "release": "desktop-apps",
+    "installer": "TurboWarp.exe"
+  },
+    "Chrome": {
+    "name": "Google Chrome",
+    "description": "Google's fast browser running Chromium.",
+    "category": "Tools",
+    "setup-type": "installer",
+    "latest-version": "1.0",
+    "requirements": [
+      "Windows 10 or later",
+    ],
+    "icon": "/app2/icon.png",
+    "screenshots": [
+      "/app2/screen_1.png",
+      "/app2/screen_2.png"
+    ],
+    "size": 12.4,
+    "release": "desktop-apps",
+    "installer": "Chrome.exe"
+  },
+    "Firefox": {
+    "name": "Mozilla Firefox",
+    "description": "Open-source fast browser made by community with huge support.",
+    "category": "Tools",
+    "setup-type": "installer",
+    "latest-version": "1.0",
+    "requirements": [
+      "Windows 8 or later",
+    ],
+    "icon": "/app2/icon.png",
+    "screenshots": [
+      "/app2/screen_1.png",
+      "/app2/screen_2.png"
+    ],
+    "size": 0.49,
+    "release": "desktop-apps",
+    "installer": "Firefox.exe"
+  },
+    "Firefox": {
+    "name": "Python Manager",
+    "description": "Python 3.16 Manager App",
+    "category": "Tools",
+    "setup-type": "installer",
+    "latest-version": "1.0",
+    "requirements": [
+      "Windows",
+    ],
+    "icon": "/app2/icon.png",
+    "screenshots": [
+      "/app2/screen_1.png",
+      "/app2/screen_2.png"
+    ],
+    "size": 96.2,
+    "release": "desktop-apps",
+    "installer": "Python.msix"
+  },
+  "Windhawk": {
+    "name": "Windhawk",
+    "description": "Plugins for Windows made by community.",
+    "category": "Personalization",
+    "setup-type": "installer",
+    "latest-version": "1.0",
+    "requirements": [
+      "Windows 10 or newer",
+    ],
+    "icon": "/app2/icon.png",
+    "screenshots": [
+      "/app2/screen_1.png",
+      "/app2/screen_2.png"
+    ],
+    "size": 11,
+    "release": "desktop-apps",
+    "installer": "Windhawk.exe"
+  },
+    "Roblox": {
+    "name": "Roblox",
+    "description": "A game with different worlds, games, mini-games e.t.c.!",
+    "category": "Games",
+    "setup-type": "installer",
+    "latest-version": "1.0",
+    "requirements": [
+      "Windows 10 or newer",
+    ],
+    "icon": "/app2/icon.png",
+    "screenshots": [
+      "/app2/screen_1.png",
+      "/app2/screen_2.png"
+    ],
+    "size": 13.1,
+    "release": "desktop-apps",
+    "installer": "Roblox.exe"
+  },
+    "TLauncher": {
+    "name": "TLauncher",
+    "description": "Minecraft: Java Edition free launcher with mods and no license!",
+    "category": "Games",
+    "setup-type": "installer",
+    "latest-version": "1.0",
+    "requirements": [
+      "Windows 10 or newer",
+    ],
+    "icon": "/app2/icon.png",
+    "screenshots": [
+      "/app2/screen_1.png",
+      "/app2/screen_2.png"
+    ],
+    "size": 59.1,
+    "release": "desktop-apps",
+    "installer": "TLauncher.exe"
+  },
+    "HoYoPlay": {
+    "name": "HoYoPlay",
+    "description": "A launcher to manage and play all HoYoverse games!",
+    "category": "Games",
+    "setup-type": "installer",
+    "latest-version": "1.0",
+    "requirements": [
+      "Windows 10 or newer",
+    ],
+    "icon": "/app2/icon.png",
+    "screenshots": [
+      "/app2/screen_1.png",
+      "/app2/screen_2.png"
+    ],
+    "size": 195,
+    "release": "desktop-apps",
+    "installer": "HoYoPlay.exe"
+  },
+    "ChatGPT": {
+    "name": "ChatGPT",
+    "description": "ChatGPT and Codex are now split in one app!",
+    "category": "Tools",
+    "setup-type": "installer",
+    "latest-version": "1.0",
+    "requirements": [
+      "Windows 10 or newer",
+    ],
+    "icon": "/app2/icon.png",
+    "screenshots": [
+      "/app2/screen_1.png",
+      "/app2/screen_2.png"
+    ],
+    "size": 0.79,
+    "release": "desktop-apps",
+    "installer": "ChatGPT.exe"
+  },
+    "Virtualbox": {
+    "name": "Oracle VM VirtualBox",
+    "description": "The most popular app to create and manage virtual machines.",
+    "category": "Tools",
+    "setup-type": "installer",
+    "latest-version": "1.0",
+    "requirements": [
+      "Windows 10 or newer",
+    ],
+    "icon": "/app2/icon.png",
+    "screenshots": [
+      "/app2/screen_1.png",
+      "/app2/screen_2.png"
+    ],
+    "size": 169,
+    "release": "desktop-apps",
+    "installer": "VirtualBox.exe"
+  },
+    "Steam": {
+    "name": "Steam",
+    "description": "An app with millions of games.",
+    "category": "Games",
+    "setup-type": "installer",
+    "latest-version": "1.0",
+    "requirements": [
+      "Windows 10 or newer",
+    ],
+    "icon": "/app2/icon.png",
+    "screenshots": [
+      "/app2/screen_1.png",
+      "/app2/screen_2.png"
+    ],
+    "size": 2.27,
+    "release": "desktop-apps",
+    "installer": "Steam.exe"
+  },
+    "Antigravity": {
+    "name": "Google Antigravity IDE",
+    "description": "A coding app with in-built Google Gemini AI agent.",
+    "category": "Tools",
+    "setup-type": "installer",
+    "latest-version": "1.0",
+    "requirements": [
+      "Windows 10 or newer",
+    ],
+    "icon": "/app2/icon.png",
+    "screenshots": [
+      "/app2/screen_1.png",
+      "/app2/screen_2.png"
+    ],
+    "size": 161,
+    "release": "desktop-apps",
+    "installer": "Antigravity.exe"
+  },
+    "Telegram": {
+    "name": "Telegram Desktop",
+    "description": "Fast Telegram client for Windows.",
+    "category": "Other",
+    "setup-type": "installer",
+    "latest-version": "1.0",
+    "requirements": [
+      "Windows 10 or newer",
+    ],
+    "icon": "/app2/icon.png",
+    "screenshots": [
+      "/app2/screen_1.png",
+      "/app2/screen_2.png"
+    ],
+    "size": ,
+    "release": "desktop-apps",
+    "installer": "Telegram.exe"
+  },
+    "Discord": {
+    "name": "Discord",
+    "description": "Gaming messenger to play and hang out together!",
+    "category": "Other",
+    "setup-type": "installer",
+    "latest-version": "1.0",
+    "requirements": [
+      "Windows 10 or newer",
+    ],
+    "icon": "/app2/icon.png",
+    "screenshots": [
+      "/app2/screen_1.png",
+      "/app2/screen_2.png"
+    ],
+    "size": ,
+    "release": "desktop-apps",
+    "installer": "Discord.exe"
+  },
 }
