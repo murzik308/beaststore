@@ -2,7 +2,6 @@
   "MurzyBrowser": {
     "name": "MurzyBrowser",
     "description": "A cool fast browser based on Chromium and made for gamers with only needed functions: without trash.",
-    "category": "Tools",
     "categories": ["Tools", "dev-made"],
     "setup-type": "installer",
     "latest-version": "1.0",
@@ -16,7 +15,6 @@
   "AviPet": {
     "name": "AviPet",
     "description": "Add a pet on your desktop! AviPet is an app with cute pets for desktop made by MurzPlay and Zawarka.",
-    "category": "Personalization",
     "categories": ["Personalization", "dev-made"],
     "setup-type": "installer",
     "latest-version": "1.0",
@@ -205,7 +203,7 @@
     "requirements": ["Windows 10 or newer"],
     "icon": "/app2/icon.png",
     "screenshots": ["/app2/screen_1.png", "/app2/screen_2.png"],
-    "size": 62.5,
+    "size": 67.5,
     "release": "desktop-apps",
     "installer": "Telegram.exe"
   },
