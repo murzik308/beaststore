@@ -244,6 +244,6 @@
     "screenshots": ["/app2/screen_1.png", "/app2/screen_2.png"],
     "size": 2.7,
     "release": "desktop-apps",
-    "installer": "OBS.exe"
+    "installer": "CapCut.exe"
   }
 }
